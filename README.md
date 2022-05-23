@@ -14,12 +14,12 @@ Create a little form with style and php :
     
 # Design 
 
-  I use  ![Figma](https://www.figma.com/file/7AeCE5uDn4DJdfaed7mbgL/Hacker---Poulette?node-id=0%3A1)
+  I use  [Figma](https://www.figma.com/file/7AeCE5uDn4DJdfaed7mbgL/Hacker---Poulette?node-id=0%3A1)
   
   
  # A finir
  
- * Résoudre problème avec Heroku 
+ * Résoudre problèmes avec Heroku 
  * Finir design
  * Style des pages Envoi du mail et le form
  
