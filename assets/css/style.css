@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: white;
+}
+
+section {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+}
+
+.hackeur {
+  background-image: url(/img/logo_2.png);
+}
+/*# sourceMappingURL=style.css.map */
